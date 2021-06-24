@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../library-BFT-SMaRt-v1.0-beta/library-BFT-SMaRt-v1.0-beta/lib/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library-BFT-SMaRt-v1.0-beta/library-BFT-SMaRt-v1.0-beta/lib/core-0.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library-BFT-SMaRt-v1.0-beta/library-BFT-SMaRt-v1.0-beta/lib/netty-all-4.0.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library-BFT-SMaRt-v1.0-beta/library-BFT-SMaRt-v1.0-beta/lib/slf4j-api-1.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
